@@ -2,7 +2,7 @@
   "name": "react-native-charts-wrapper",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wuxudong/react-native-charts-wrapper.git"
+    "url": "https://github.com/mxs/react-native-charts-wrapper.git"
   },
   "version": "0.5.7",
   "description": "A react-native charts support both android and iOS.",
@@ -25,7 +25,7 @@
     "index.js",
     "RNCharts.podspec"
   ],
-  "dependencies": {
+  "peerDependencies": {
     "prop-types": "15.7.2",
     "react": "16.13.1"
   }
